@@ -1,2 +1,2 @@
-# python-senior-les1
+# **python-senior-les1**
 навчальна репозиторія
