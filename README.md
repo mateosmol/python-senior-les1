@@ -1,2 +1,2 @@
-# python-senior-itstep
+# python-senior-les1
 навчальна репозиторія
